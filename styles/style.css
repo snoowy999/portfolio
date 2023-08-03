@@ -117,3 +117,13 @@ body{
         width: auto;
     }
 }
+
+@media (max-width: 400px){
+    .cabecalho{
+        padding: 12%;
+   }
+   .cabecalho__menu{
+    gap: 50px;
+    justify-content: center;
+}
+}
